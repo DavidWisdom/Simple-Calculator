@@ -28,4 +28,4 @@
 
 ## 效果呈现
 
-![效果图.jpg](./img/643e650ed79812c36a7ff6b83647d65.jpg)
+<img src="./img/643e650ed79812c36a7ff6b83647d65.jpg" alt="效果图" style="zoom:25%;"/>
